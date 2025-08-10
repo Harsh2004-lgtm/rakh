@@ -54,7 +54,7 @@
 
 <div class="container">
   <h1>रक्षाबंधन की शुभकामनाएं!</h1>
-  <img src="murgi 2.jpg" alt="राखी" class="rakhi" />
+  <img src="murgi 2.jpg"  class="rakhi" />
   <p>भाई-बहन के प्यारे रिश्ते को समर्पित यह त्योहार।</p>
   <button onclick="showMessage()">मेसेज दिखाओ</button>
   <p id="message" style="color:#d62828; font-weight:bold; margin-top: 1rem;"></p>
